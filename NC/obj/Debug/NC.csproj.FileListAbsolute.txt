@@ -1,0 +1,16 @@
+C:\Users\以夕阳落款\Desktop\NC\NC\bin\Debug\NC.exe.config
+C:\Users\以夕阳落款\Desktop\NC\NC\bin\Debug\NC.exe
+C:\Users\以夕阳落款\Desktop\NC\NC\bin\Debug\NC.pdb
+C:\Users\以夕阳落款\Desktop\NC\NC\obj\Debug\NC.csprojResolveAssemblyReference.cache
+C:\Users\以夕阳落款\Desktop\NC\NC\obj\Debug\NC.MainForm.resources
+C:\Users\以夕阳落款\Desktop\NC\NC\obj\Debug\NC.csproj.GenerateResource.Cache
+C:\Users\以夕阳落款\Desktop\NC\NC\obj\Debug\NC.exe
+C:\Users\以夕阳落款\Desktop\NC\NC\obj\Debug\NC.pdb
+C:\Users\何彬\Desktop\NC\NC\obj\Debug\NC.MainForm.resources
+C:\Users\何彬\Desktop\NC\NC\obj\Debug\NC.csproj.GenerateResource.Cache
+C:\Users\何彬\Desktop\NC\NC\obj\Debug\NC.exe
+C:\Users\何彬\Desktop\NC\NC\bin\Debug\NC.exe.config
+C:\Users\何彬\Desktop\NC\NC\bin\Debug\NC.exe
+C:\Users\何彬\Desktop\NC\NC\bin\Debug\NC.pdb
+C:\Users\何彬\Desktop\NC\NC\obj\Debug\NC.pdb
+C:\Users\何彬\Desktop\NC\NC\obj\Debug\NC.csprojResolveAssemblyReference.cache
